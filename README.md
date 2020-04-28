@@ -1,4 +1,4 @@
-#The Amazing Auto-Clicker
+# The Amazing Auto-Clicker
 A personal project that took 1 day
 
 ## Console Auto-Clicker
